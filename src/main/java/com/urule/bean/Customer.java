@@ -1,10 +1,7 @@
 package com.urule.bean;
-import java.io.File;
 import java.util.Date;
 
-import com.bstek.urule.ClassUtils;
 import com.bstek.urule.model.Label;
-import lombok.Data;
 
 public class Customer {
     @Label("名称")
